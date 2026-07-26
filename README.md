@@ -14,6 +14,7 @@
 - Machine Learning
 - Computer Vision
 - Web Development
+- MATLAB
 
 📫 Email:
 y3606671@gmail.com
