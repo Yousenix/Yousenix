@@ -6,12 +6,13 @@
 🤖 Currently learning Machine Learning & AI
 
 ## Projects
-- 🐱 Cat vs Dog Image Classifier
+- 🧮 Matrix invertor
 - 🌦 Weather Web App
 - 🌐 Flask Projects
 
 ## Currently Learning
 - Machine Learning
+- Linear algebra
 - Computer Vision
 - Web Development
 - MATLAB
