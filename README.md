@@ -2,20 +2,29 @@
 
 🎓 High School Student
 🐍 Python Developer
+🤖 Learning Machine Learning & AI
 🌌 Astronomy Enthusiast
-🤖 Currently learning Machine Learning & AI
 
-## Projects
-- 🧮 Matrix invertor
-- 🌦 Weather Web App
-- 🌐 Flask Projects
+## 🚀 Projects
 
-## Currently Learning
-- Machine Learning
-- Linear algebra
-- Computer Vision
-- Web Development
-- MATLAB
+* 🧮 Matrix Inverse — NumPy & Tkinter
+* 🌡️ Fahrenheit → Celsius ML — Linear Regression from scratch
+* 🪓 Lumber-jack — Python terminal game
+
+## 📚 Currently Learning
+
+* Machine Learning
+* Linear Algebra
+* Python & NumPy
+* Git & GitHub
+* MATLAB
+
+## 🎯 Interests
+
+* Artificial Intelligence & Machine Learning
+* Research
+* Astronomy
+* Software Development
 
 📫 Email:
-y3606671@gmail.com
+[y3606671@gmail.com](mailto:y3606671@gmail.com)
